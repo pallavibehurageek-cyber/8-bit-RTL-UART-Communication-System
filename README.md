@@ -117,22 +117,6 @@ GTKWave
 
 Visual Studio Code
 
-
-Project Structure
-
-UART-Serial-Communication-Verilog/
-│
-├── rtl/
-│   ├── uart_tx.v
-│   └── uart_rx.v
-│
-├── Testbench/
-│   └── uart_loopback_tb.v
-│
-├── docs/
-│
-└── README.md
-
 Learning Outcomes
 
 This project provides practical understanding of:
